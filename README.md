@@ -4,7 +4,7 @@
 
 > repo นี้เก็บเฉพาะไฟล์ติดตั้ง (release) เท่านั้น — ไม่มี source code
 
-## ดาวน์โหลด
+## ดาวน์โหลดs
 
 ไปที่หน้า **[Releases](../../releases/latest)** แล้วโหลดไฟล์ `ByteBeat-Setup-x.x.x.exe` ตัวล่าสุด
 
