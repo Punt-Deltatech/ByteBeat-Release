@@ -1,6 +1,6 @@
 # 🎵 ByteBeat
 
-แอปเล่นเพลงจาก YouTube หน้าตาแบบ Spotify สำหรับ Windows
+แอปเล่นเพลงจาก YouTube สำหรับ Windows
 
 > repo นี้เก็บเฉพาะไฟล์ติดตั้ง (release) เท่านั้น — ไม่มี source code
 
