@@ -6,7 +6,9 @@
 
 ## ดาวน์โหลดs
 
-ไปที่หน้า **[Releases](../../releases/latest)** แล้วโหลดไฟล์ `ByteBeat-Setup-x.x.x.exe` ตัวล่าสุด
+### [⬇️ ดาวน์โหลด ByteBeat ล่าสุดสำหรับ Windows](../../releases/latest/download/ByteBeat-Setup.exe)
+
+(ลิงก์นี้ดาวน์โหลดตัวติดตั้งไฟล์เดียวทันที ไม่ต้องผ่านหน้า Releases — จะได้เวอร์ชันล่าสุดเสมอ ดูรายละเอียดแต่ละเวอร์ชัน/ไฟล์อื่นได้ที่หน้า **[Releases](../../releases/latest)**)
 
 ## วิธีติดตั้ง
 
